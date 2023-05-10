@@ -1,6 +1,7 @@
 @echo off
 if not exist "wineyes" mkdir wineyes
 echo Compiling Window-Eyes revision history documents to HTML...
+pandoc -o Wineyes/2.html md/2.md
 pandoc -o Wineyes/3.html md/3.md
 pandoc -o Wineyes/4.html md/4.md
 pandoc -o Wineyes/5.html md/5.md
