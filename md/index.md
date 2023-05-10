@@ -1,3 +1,4 @@
+<meta charset="utf-8" />
 # Window-Eyes Complete Revision History
 This set of documents have been put together by [Bryn](https://brynify.me), and describes what's new between the different versions of AI Squared, previously GWMicro's screen reader called Window-Eyes.
 All of the information in this page has been gathered from [here](https://web.archive.org/web/20191230165951/http://www.gwmicro.com:80/Window-Eyes/Version_History/)
