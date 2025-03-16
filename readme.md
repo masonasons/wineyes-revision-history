@@ -6,4 +6,4 @@ This github repository is my ongoing work on converting the window-eyes revision
 The batch script to build the markdown files is located in the root of this repository. Make sure you have Pandoc installed.
 
 ## I just want to read it
-[Go forth and do.](https://brynify.me/wineyes)
+[Go forth and do.](https://masonasons.me/wineyes)
